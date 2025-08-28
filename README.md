@@ -1,2 +1,2 @@
 # Motor-model-for-FSAE-car
-This is a motor model made in simulink to find the important quantities such as bus currentenergy,power,torque
+This is a motor model made in simulink to find the important quantities such as bus current,energy,power,torque
